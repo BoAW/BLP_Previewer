@@ -1,0 +1,8 @@
+.vscode/**
+src/**
+node_modules/**
+tsconfig.json
+.gitignore
+**/*.map
+
+# Do NOT ignore out/ — compiled JS must be included
